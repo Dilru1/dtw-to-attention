@@ -49,6 +49,5 @@ The notebooks use both TensorFlow/Keras and PyTorch, as in the course.
 
 ## Authors
 
-Dehiwalage Don Dilruwan. The final project was carried out jointly with Peifeng Wang.
+Dehiwalage Don Dilruwan & Peifeng Wang.
 
-Exercise statements are by the course instructor (Simon Malinowski). Solutions and analysis are the authors' own. Course slides are not redistributed here.
