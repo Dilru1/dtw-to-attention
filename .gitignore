@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+
+# course audio/feature files (not redistributable)
+data/*.npy
+data/*.mp3
+data/*.wav
